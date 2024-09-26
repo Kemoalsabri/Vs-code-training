@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhplqcfjDGJ6cgGIzVHezJfYnXW-UfIy9cnQ&s);
+}
+
+.drum{
+    color: black;
+    filter: drop-shadow(10px 10px 10px yellow);
+    text-shadow: 5px 5px 5px black;
+    border-radius: 50%;
+    height: 150px;
+    width: 180px;
+}
+
+.w{
+    background-image: url(images\ \(1\).jpeg);
+}
+.a{
+    background-image: url(images\ \(2\).jpeg);
+}
+.s{
+background-image: url(img3.avif);
+
+}
+.d{
+background-image: url(img4.jpeg);
+
+}
+.j{
+background-image: url(img5.jpeg);
+
+}
+.k{background-image: url(img6.webp);
+
+
+}
+.l{background-image: url(img7.webp);
+
+}
+}
